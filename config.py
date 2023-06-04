@@ -1,0 +1,5 @@
+API_key ="69f04e4613056b159c2761a9d9e664d2"
+TRILLIO_PHONE_NUMBER = "+13613101217"
+trillio_account_sid = "ACcfda060e92abf8073114d8f0f4f2a3ec"
+trillio_auth_token = "faa0201beac46a6c07b63932b4897f8f"
+my_phone_num ="+19059225695"
